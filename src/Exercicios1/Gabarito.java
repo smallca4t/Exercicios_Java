@@ -22,7 +22,7 @@ import java.util.Scanner;
 				if (gabaritoAluno[i].equals(gabaritoOficial[i])) {
 				nota++;
 				}
-			}
+				}
 				      
 				System.out.println("imprima" + gabaritoAluno);
 				System.out.println("RESULTADO: " + nota);
