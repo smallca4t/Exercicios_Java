@@ -16,24 +16,12 @@ public abstract class InfoFuncionarios {
 		return nome;
 	}
 	
-	public void setNome(String nome) {
-		this.nome = nome;
-	}
-	
 	public String getCargo() {
 		return cargo;
 	}
 	
-	public void setCargo(String cargo) {
-		this.cargo = cargo;
-	}
-	
-	public double getSalario() {
+	public double getSalario() { 
 		return salario;
-	}
-	
-	public void setSalario(double salario) {
-		this.salario = salario;
 	}
 	
 	public abstract double calculoBonificacao();

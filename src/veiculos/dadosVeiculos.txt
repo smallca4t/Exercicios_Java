@@ -1,0 +1,9 @@
+ert, erty, 2020, Carro, ertyu
+ds, asd, 2345, Moto, tyu
+uno, fiat, 2030, Carro, diesel
+oi, po, 2020, Moto, 23
+poi, poi, 2345, Carro, gasolina
+qw, qw, qw, r, qw
+uy, oi, uy, Carro, uy
+me, me, me, Caminhão, me
+de, ed, ed, Moto, ed
